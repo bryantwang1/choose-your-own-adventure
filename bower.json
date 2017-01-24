@@ -1,0 +1,21 @@
+{
+  "name": "choose-your-own-adventure",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Joshua Rinard <jrinard@hotmail.com>",
+    "Bryant Wang <bryant.m.wang@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
