@@ -1,0 +1,5 @@
+<h1>Start your adventure!</h1>
+<h3>{{startScenario.content}}</h3>
+<div *ngFor="let choice of startScenario.choices">
+  <button (click)="nextFork(choice)">{{choice}}</button>
+</div>
